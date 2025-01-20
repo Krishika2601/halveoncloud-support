@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 
-# Welcome to HalveonCloud Documentation
+# Welcome to HalveonCloud 
 
 Learn everything you need to get started with **HalveonCloud** and discover its features for seamless **device monitoring**, **data analytics**, and **temperature logging**.
 
